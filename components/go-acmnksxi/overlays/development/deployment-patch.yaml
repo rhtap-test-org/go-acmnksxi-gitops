@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/go-acmnksxi:ffd382f440a4aadf3162a27c8081fce9fc24d1ba@sha256:9126955753761ec93aba16344f7a7cc60c69ca9b9d72af0e62c060900e878a69
+        - image: quay.io/tsscui/go-acmnksxi:358378602605f1f2355ef635c738da495d909c55@sha256:1720dc7dc971a65b192c4ac2f347bac176011d7eeafc2c27a8b4922ac4c8b965
           name: container-image
